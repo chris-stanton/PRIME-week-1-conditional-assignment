@@ -1,6 +1,5 @@
 
 
-
 function prime(a, b) {
 
     if (a > b) {
@@ -16,6 +15,3 @@ function prime(a, b) {
 
 
 console.log(prime(2,1));
-
-
-// Link: https://github.com/chris-stanton/Week-1Conditional_Assignment
